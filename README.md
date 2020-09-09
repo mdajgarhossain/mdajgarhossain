@@ -1,5 +1,4 @@
 ## 👋 &nbsp;Hey there! I'm Ajgar Hossain Jewell
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> PROGRAMMER | DEVELOPER | DESIGNER <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 ### 👨🏻‍💻 &nbsp;About Me
 
