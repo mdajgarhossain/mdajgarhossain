@@ -11,7 +11,7 @@
 ✉️ &nbsp;You can shoot me an email at ajgarhossain1@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1DxDC5Kj48-U2NdeHY_SIe_dmuiDP_NlZ/view) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -32,7 +32,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/mdajgarhossain">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mdajgarhossain&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mdajgarhossain&layout=compact&exclude_lang=java+r&theme=vue-dark" />
