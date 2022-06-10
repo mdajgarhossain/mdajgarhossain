@@ -1,5 +1,4 @@
-## 👋 &nbsp;Hey there! I'm Ajgar Hossain Jewell
- PROGRAMMER | DEVELOPER | DESIGNER 
+## 👋 &nbsp;Hey there! I'm Ajgar Hossain Jewell --- PROGRAMMER | DEVELOPER | DESIGNER 
 
 ### 👨🏻‍💻 &nbsp;About Me
 
