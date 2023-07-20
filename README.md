@@ -8,7 +8,7 @@
 ✍️ &nbsp;In my free time, I like to read technological blog.\
 💬 &nbsp;Feel free to reach out to me for contributing any kind of intersting project.\
 ✉️ &nbsp;You can shoot me an email at ajgarhossain1@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1gfOLcaMMUBnqOlMVeDJqIzQBYQA1h0HW/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1IlWc_3UNtD5OH222-WC1Efzus6kfnwud/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
