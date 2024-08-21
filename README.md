@@ -16,20 +16,23 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=A8B9CC)&nbsp;\
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
-![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vuedotjs&logoColor=fff)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=nextdotjs)&nbsp;
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-333333?style=flat&logo=nuxtdotjs)&nbsp;
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;\
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=nextdotjs)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)&nbsp;\
+![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vuedotjs&logoColor=fff)&nbsp;
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-333333?style=flat&logo=nuxtdotjs)&nbsp;
+![Vuex](https://img.shields.io/badge/-Vuex-333333?style=flat&logo=vuex)&nbsp;\
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)\
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwind-css)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C);\
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
-![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown);
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
