@@ -2,13 +2,13 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🎓 &nbsp;BSc in Computer Science and Engineering at American International University-Bangladesh.\
-💡 &nbsp;I like to explore new technologies and develop software solutions.\
-🌱 &nbsp;I'm on track for learning more about Web Programming.\
-✍️ &nbsp;In my free time, I like to read technological blog.\
-💬 &nbsp;Feel free to reach out to me for contributing any kind of intersting project.\
-✉️ &nbsp;You can shoot me an email at ajgarhossain1@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/18bA5v6uEnF380mt3eVc8_VgOFSOLK9st/view) for more details about me. I'm open to feedback and suggestions!
+🎓 &nbsp;BSc in Computer Science and Engineering from American International University-Bangladesh.\
+💡 &nbsp;Passionate about exploring new technologies and crafting innovative web solutions.\
+🌱 &nbsp;Continuously enhancing my expertise in advanced Web Programming and frontend technologies.\
+✍️ &nbsp;In my free time, I enjoy reading tech blogs and staying updated with the latest industry trends.\
+💬 &nbsp;I'm open to collaborating on exciting projects—feel free to reach out!\
+✉️ &nbsp;You can shoot me an email at ajgarhossain1@gmail.com! I'll get back to you as soon as possible.\
+📄 &nbsp;Please check out my [Résumé](https://drive.google.com/file/d/18bA5v6uEnF380mt3eVc8_VgOFSOLK9st/view) for more details. I'm always open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
