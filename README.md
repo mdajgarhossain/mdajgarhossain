@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🎓 &nbsp;Studied BSc in Computer Science and Engineering at American International University-Bangladesh.\
+🎓 &nbsp;BSc in Computer Science and Engineering at American International University-Bangladesh.\
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🌱 &nbsp;I'm on track for learning more about Web Programming.\
 ✍️ &nbsp;In my free time, I like to read technological blog.\
