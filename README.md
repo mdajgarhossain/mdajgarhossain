@@ -35,9 +35,9 @@
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
+<!--  ### ⚙️ &nbsp;GitHub Analytics
 
-<!-- <p align="center">
+<p align="center">
 <a href="https://github.com/mdajgarhossain">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mdajgarhossain&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mdajgarhossain&layout=compact&exclude_lang=java+r&theme=vue-dark" />
