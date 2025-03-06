@@ -37,17 +37,17 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/mdajgarhossain">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mdajgarhossain&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mdajgarhossain&layout=compact&exclude_lang=java+r&theme=vue-dark" />
 </a>
-</p>
+</p> -->
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://mdajgarhossain.github.io/myPortfolio"><img src="https://img.shields.io/badge/-mdajgarhossain.github.io-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<!-- <a href="https://mdajgarhossain.github.io/myPortfolio"><img src="https://img.shields.io/badge/-mdajgarhossain.github.io-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a> -->
 <a href="https://linkedin.com/in/mdajgarhossain"><img src="https://img.shields.io/badge/-Ajgar%20Hossain%20Jewel-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:ajgarhossain1@gmail.com"><img src="https://img.shields.io/badge/-ajgarhossain1@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://facebook.com/ajgar.jewel"><img src="https://img.shields.io/badge/-@ajgar.jewel-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
