@@ -19,8 +19,8 @@ I'm a passionate Frontend Developer with **3+ years of experience** crafting inn
 
 ## 💼 Professional Experience
 
-### **Reformed Tech** - Frontend Developer *(Apr 2022 – Mar 2025)*
-- Developed **4+ production-ready web applications** using cutting-edge technologies
+### **Reformed Tech** - Frontend Developer *(Apr 2022 – Present)*
+- Developed **multiple production-ready web applications** using cutting-edge technologies
 - Led cross-functional collaboration resulting in optimized feature implementations
 - Maintained **high quality standards** across all project deliveries
 
@@ -47,7 +47,7 @@ const skills = {
 
 ## 🎯 What Sets Me Apart
 
-- **🔧 Problem Solver:** Successfully tackled complex technical challenges across 4+ major projects
+- **🔧 Problem Solver:** Successfully tackled complex technical challenges across multiple major projects
 - **🤝 Team Player:** Proven track record in cross-functional collaboration and agile methodologies
 - **📈 Performance Focused:** Expertise in optimization techniques including memoization and lazy loading
 - **🌍 Global Experience:** Remote work experience with international clients
