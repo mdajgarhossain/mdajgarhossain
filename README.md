@@ -1,54 +1,84 @@
-## 👋 &nbsp;Hey there! I'm Ajgar Hossain Jewell --- PROGRAMMER | DEVELOPER | DESIGNER 
+# Ajgar Hossain Jewel
+**Frontend Developer | 3+ Years Experience | Dhaka, Bangladesh**
 
-### 👨🏻‍💻 &nbsp;About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mdajgarhossain)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajgarhossain1@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1I9EbOUEM8hqFc29CBXVeu8Z5GwPY6unw/view)
 
-🎓 &nbsp;BSc in Computer Science and Engineering from American International University-Bangladesh.\
-💡 &nbsp;Passionate about exploring new technologies and crafting innovative web solutions.\
-🌱 &nbsp;Continuously enhancing my expertise in advanced Web Programming and frontend technologies.\
-✍️ &nbsp;In my free time, I enjoy reading tech blogs and staying updated with the latest industry trends.\
-💬 &nbsp;I'm open to collaborating on exciting projects—feel free to reach out!\
-✉️ &nbsp;You can shoot me an email at ajgarhossain1@gmail.com! I'll get back to you as soon as possible.\
-📄 &nbsp;Please check out my [Résumé](https://drive.google.com/file/d/1I9EbOUEM8hqFc29CBXVeu8Z5GwPY6unw/view) for more details. I'm always open to feedback and suggestions!
+---
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+## 🚀 About Me
 
-### 🛠 &nbsp;Tech Stack
+I'm a passionate Frontend Developer with **3+ years of experience** crafting innovative web solutions and building scalable applications. Currently based in Dhaka, Bangladesh, I specialize in modern JavaScript frameworks and have a proven track record of delivering high-quality projects across diverse industries.
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;\
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=nextdotjs)&nbsp;
-![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)&nbsp;\
-![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vuedotjs&logoColor=fff)&nbsp;
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-333333?style=flat&logo=nuxtdotjs)&nbsp;
-![Vuex](https://img.shields.io/badge/-Vuex-333333?style=flat&logo=vuex)&nbsp;\
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwind-css)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)\
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
-![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
+**🎓 BSc in Computer Science and Engineering** - American International University-Bangladesh  
+**💼 Currently:** Frontend Developer at Reformed Tech (2022-2025)  
+**🌐 Previously:** Remote React Developer for WITHIN, United States
 
-<!--  ### ⚙️ &nbsp;GitHub Analytics
+---
 
-<p align="center">
-<a href="https://github.com/mdajgarhossain">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mdajgarhossain&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mdajgarhossain&layout=compact&exclude_lang=java+r&theme=vue-dark" />
-</a>
-</p> -->
+## 💼 Professional Experience
 
-### 🤝🏻 &nbsp;Connect with Me
+### **Reformed Tech** - Frontend Developer *(Apr 2022 – Mar 2025)*
+- Developed **4+ production-ready web applications** using cutting-edge technologies
+- Led cross-functional collaboration resulting in optimized feature implementations
+- Maintained **high quality standards** across all project deliveries
 
-<p align="left">
-<!-- <a href="https://mdajgarhossain.github.io/myPortfolio"><img src="https://img.shields.io/badge/-mdajgarhossain.github.io-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a> -->
-<a href="https://linkedin.com/in/mdajgarhossain"><img src="https://img.shields.io/badge/-Ajgar%20Hossain%20Jewel-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:ajgarhossain1@gmail.com"><img src="https://img.shields.io/badge/-ajgarhossain1@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://facebook.com/ajgar.jewel"><img src="https://img.shields.io/badge/-@ajgar.jewel-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
-</p>
+### **WITHIN, USA** - React Developer *(Remote Contract, Oct 2021 - Mar 2022)*
+- Built automated Google Ads pacing system enhancing campaign performance
+- Solved complex budget allocation challenges with custom calendar implementations
+
+---
+
+## 🛠️ Technical Arsenal
+
+### **Core Technologies**
+```javascript
+const skills = {
+  languages: ['JavaScript (3+ years)', 'TypeScript (1+ years)', 'HTML', 'CSS (4+ years)'],
+  frameworks: ['React.js (2+ years)', 'Next.js (2+ years)', 'Vue.js (1+ years)', 'Nuxt.js (1+ years)'],
+  stateManagement: ['Redux Toolkit (1+ years)', 'VueX (2+ years)', 'Context API'],
+  styling: ['Tailwind CSS', 'Bootstrap', 'Vuetify'],
+  tools: ['Git', 'Figma', 'Jira', 'Linear', 'Postman'],
+  cloud: ['Firebase', 'Netlify'],
+  methodologies: ['Agile/Scrum', 'Performance Optimization', 'Cross-browser Compatibility']
+};
+```
+
+## 🎯 What Sets Me Apart
+
+- **🔧 Problem Solver:** Successfully tackled complex technical challenges across 4+ major projects
+- **🤝 Team Player:** Proven track record in cross-functional collaboration and agile methodologies
+- **📈 Performance Focused:** Expertise in optimization techniques including memoization and lazy loading
+- **🌍 Global Experience:** Remote work experience with international clients
+- **🎨 Design Conscious:** Strong eye for UI/UX with Figma proficiency
+
+---
+
+## 🌟 Current Focus
+
+- 🔭 Working on advanced React.js patterns and Next.js 14+ features
+- 🌱 Exploring AI integration in web development
+- 📚 Continuously learning modern web technologies and best practices
+- 💡 Open to collaborating on innovative frontend projects
+
+---
+
+## 📫 Let's Connect
+
+I'm always open to discussing new opportunities, collaborating on exciting projects, or simply having a chat about technology!
+
+**📧 Email:** [ajgarhossain1@gmail.com](mailto:ajgarhossain1@gmail.com)  
+**💼 LinkedIn:** [Ajgar Hossain Jewel](https://linkedin.com/in/mdajgarhossain)  
+**📱 Phone:** (+880) 1794-272207  
+**📍 Location:** Dhaka, Bangladesh
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mdajgarhossain&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  
+  **"Whoever finds that his two days are equal has lost. Whoever’s tomorrow is worse than today is cursed. And whoever’s today is better than yesterday is blessed." - The Prophet Muhammad ﷺ**
+  
+  **"Success is the sum of small efforts repeated day in and day out." - Robert Collier**
+</div>
