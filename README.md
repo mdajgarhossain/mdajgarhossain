@@ -66,6 +66,15 @@ const skills = {
 
 ---
 
+## 🌟 Current Focus
+
+- 🔭 Working on advanced React.js patterns and Next.js 14+ features
+- 🌱 Exploring AI integration in web development
+- 📚 Continuously learning modern web technologies and best practices
+- 💡 Open to collaborating on innovative frontend projects
+
+---
+
 ## 🎯 What Sets Me Apart
 
 - **🔧 Problem Solver:** Successfully tackled complex technical challenges across multiple major projects
@@ -73,15 +82,6 @@ const skills = {
 - **📈 Performance Focused:** Expertise in optimization techniques including memoization and lazy loading
 - **🌍 Global Experience:** Remote work experience with international clients
 - **🎨 Design Conscious:** Strong eye for UI/UX with Figma proficiency
-
----
-
-## 🌟 Current Focus
-
-- 🔭 Working on advanced React.js patterns and Next.js 14+ features
-- 🌱 Exploring AI integration in web development
-- 📚 Continuously learning modern web technologies and best practices
-- 💡 Open to collaborating on innovative frontend projects
 
 ---
 
