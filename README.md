@@ -1,14 +1,14 @@
 <div align="center">
   
-# Ajgar Hossain Jewel
+## Hello there! 👋 I'm Ajgar Hossain Jewel
 **Frontend Developer | 3+ Years Experience | Dhaka, Bangladesh**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mdajgarhossain)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajgarhossain1@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/160txa9fe6p3OhChtpYDwRq1r_-SG8JTh/view)
 
+
 </div>
----
 
 ## 🚀 About Me
 
