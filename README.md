@@ -15,21 +15,8 @@
 I'm a passionate Frontend Developer with **3+ years of experience** crafting innovative web solutions and building scalable applications. Currently based in Dhaka, Bangladesh, I specialize in modern JavaScript frameworks and have a proven track record of delivering high-quality projects across diverse industries.
 
 **🎓 BSc in Computer Science and Engineering** - American International University-Bangladesh  
-**💼 Currently:** Frontend Developer at Reformed Tech  
-**🌐 Previously:** Remote React Developer for WITHIN, United States
-
----
-
-## 💼 Professional Experience
-
-### **Reformed Tech** - Frontend Developer *(Apr 2022 – Present)*
-- Developed **multiple production-ready web applications** using cutting-edge technologies
-- Led cross-functional collaboration resulting in optimized feature implementations
-- Maintained **high quality standards** across all project deliveries
-
-### **WITHIN, USA** - React Developer *(Remote Contract, Oct 2021 - Mar 2022)*
-- Built automated Google Ads pacing system enhancing campaign performance
-- Solved complex budget allocation challenges with custom calendar implementations
+**💼 Currently:** Frontend Developer at Reformed Tech *(Apr 2022 – Present)*  
+**🌐 Previously:** Remote React Developer for WITHIN, United States *(Oct 2021 - Mar 2022)*
 
 ---
 
