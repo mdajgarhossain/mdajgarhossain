@@ -27,10 +27,10 @@ I'm a passionate Frontend Developer with **3+ years of experience** crafting inn
 const skills = {
   languages: ['JavaScript (3+ years)', 'TypeScript (1+ years)', 'HTML', 'CSS (4+ years)'],
   frameworks: ['React.js (2+ years)', 'Next.js (2+ years)', 'Vue.js (1+ years)', 'Nuxt.js (1+ years)'],
-  stateManagement: ['Redux Toolkit (1+ years)', 'VueX (2+ years)', 'Context API'],
+  stateManagement: ['Redux Toolkit (1+ years)', 'VueX (1+ years)', 'Context API'],
   styling: ['Tailwind CSS', 'Bootstrap', 'Vuetify'],
   tools: ['Git', 'Figma', 'Jira', 'Linear', 'Postman'],
-  cloud: ['Firebase', 'Netlify'],
+  cloud: ['Vercel', 'Firebase', 'Netlify'],
   methodologies: ['Agile/Scrum', 'Performance Optimization', 'Cross-browser Compatibility']
 };
 ```
