@@ -14,8 +14,8 @@
 
 **🎓 BSc in Computer Science and Engineering** - American International University-Bangladesh  
 **💼 Currently:** Frontend Developer (Independent Contractor) at Upwork *(Jan 2025 – Present)*  
-**🌐 Previously** Frontend Developer at Reformed Tech *(Nov 2021 – Mar 2025)*  
-**🌐 Previously:** Remote React Developer for WITHIN, United States *(May 2021 - Oct 2021)*
+**🌐 Previously:** Frontend Developer at Reformed Tech *(Nov 2021 – Mar 2025)*  
+**🌍 Earlier:** Remote React Developer at WITHIN, USA *(May 2021 - Oct 2021)*
 
 ---
 
