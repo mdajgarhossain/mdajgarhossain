@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mdajgarhossain)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajgarhossain1@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/17iQCkeR6ywr7KiYWeZ02t3fgnH3p761w/view)
+[![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/14KXnYFujHwme_AoWVkGElh48C5y9Fv1A/view)
 
 
 </div>
@@ -13,8 +13,9 @@
 ## 🚀 About Me
 
 **🎓 BSc in Computer Science and Engineering** - American International University-Bangladesh  
-**💼 Currently:** Frontend Developer at Reformed Tech *(Apr 2022 – Present)*  
-**🌐 Previously:** Remote React Developer for WITHIN, United States *(Oct 2021 - Mar 2022)*
+**💼 Currently:** Frontend Developer (Independent Contractor) at Upwork *(Jan 2025 – Present)*  
+**🌐 Previously** Frontend Developer at Reformed Tech *(Nov 2021 – Mar 2025)*  
+**🌐 Previously:** Remote React Developer for WITHIN, United States *(May 2021 - Oct 2021)*
 
 ---
 
