@@ -87,7 +87,7 @@ I'm always open to discussing new opportunities, collaborating on exciting proje
 
 **📧 Email:** [ajgarhossain1@gmail.com](mailto:ajgarhossain1@gmail.com)  
 **💼 LinkedIn:** [Ajgar Hossain Jewel](https://linkedin.com/in/mdajgarhossain)  
-**🌐 Portfolio:** [ajgar-hossain-jewel.vercel.app](https://ajgar-hossain-jewel.vercel.app)
+**🌐 Portfolio:** [ajgar-hossain-jewel.vercel.app](https://ajgar-hossain-jewel.vercel.app)  
 **📱 Phone:** (+880) 1794-272207  
 **📍 Location:** Dhaka, Bangladesh
 
