@@ -4,6 +4,7 @@
 **Frontend Developer | 3+ Years Experience | Dhaka, Bangladesh**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mdajgarhossain)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://ajgar-hossain-jewel.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajgarhossain1@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/14KXnYFujHwme_AoWVkGElh48C5y9Fv1A/view)
 
@@ -86,6 +87,7 @@ I'm always open to discussing new opportunities, collaborating on exciting proje
 
 **📧 Email:** [ajgarhossain1@gmail.com](mailto:ajgarhossain1@gmail.com)  
 **💼 LinkedIn:** [Ajgar Hossain Jewel](https://linkedin.com/in/mdajgarhossain)  
+**🌐 Portfolio:** [ajgar-hossain-jewel.vercel.app](https://ajgar-hossain-jewel.vercel.app)
 **📱 Phone:** (+880) 1794-272207  
 **📍 Location:** Dhaka, Bangladesh
 
