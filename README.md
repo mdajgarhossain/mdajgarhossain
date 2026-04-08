@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mdajgarhossain)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00BCD4?style=for-the-badge&logo=todoist&logoColor=white)](https://ajgar-hossain-jewel.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajgarhossain1@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/14KXnYFujHwme_AoWVkGElh48C5y9Fv1A/view)
+[![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/18Z27ZLxVyfLRg7YuG7iOoUA5-w3Do4Hu/view)
 
 
 </div>
