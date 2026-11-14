@@ -32,7 +32,8 @@ const skills = {
   styling: ['Tailwind CSS', 'Bootstrap', 'Vuetify'],
   tools: ['Git', 'Figma', 'Jira', 'Linear', 'Postman'],
   cloud: ['Vercel', 'Firebase', 'Netlify'],
-  methodologies: ['Agile/Scrum', 'Performance Optimization', 'Cross-browser Compatibility']
+  methodologies: ['Agile/Scrum', 'Performance Optimization', 'Cross-browser Compatibility'],
+  AI-Assisted Development: ['Cursor', 'Claude', 'GitHub Copilot', 'MCP', 'Figma MCP'],
 };
 ```
 ### **Technology Stack**
