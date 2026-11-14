@@ -1,7 +1,7 @@
 <div align="center">
   
 # Hello there! 👋 I'm Ajgar Hossain Jewel
-**Frontend Developer | 3+ Years Experience | Dhaka, Bangladesh**
+**Frontend Developer | 5+ Years Experience | Dhaka, Bangladesh**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mdajgarhossain)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00BCD4?style=for-the-badge&logo=todoist&logoColor=white)](https://ajgar-hossain-jewel.vercel.app)
