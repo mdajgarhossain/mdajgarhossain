@@ -65,7 +65,7 @@ const skills = {
 
 ## 🌟 Current Focus
 
-- 🔭 Working on advanced React.js patterns and Next.js 15+ features
+- 🔭 Working on Frontend System Design
 - 🌱 Exploring AI integration in web development
 - 📚 Continuously learning modern web technologies and best practices
 - 💡 Open to collaborating on innovative frontend projects
