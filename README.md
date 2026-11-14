@@ -26,9 +26,9 @@
 ### **Core Technologies**
 ```javascript
 const skills = {
-  languages: ['JavaScript (3+ years)', 'TypeScript (1+ years)', 'HTML', 'CSS (4+ years)'],
-  frameworks: ['React.js (2+ years)', 'Next.js (2+ years)', 'Vue.js (1+ years)', 'Nuxt.js (1+ years)'],
-  stateManagement: ['Redux Toolkit (1+ years)', 'VueX (1+ years)', 'Context API'],
+  languages: ['JavaScript (5+ years)', 'TypeScript (3+ years)', 'HTML', 'CSS (6+ years)'],
+  frameworks: ['React.js (4+ years)', 'Next.js (4+ years)', 'Vue.js (2+ years)', 'Nuxt.js (2+ years)'],
+  stateManagement: ['Redux Toolkit (4+ years)', 'VueX (2+ years)', 'Context API'],
   styling: ['Tailwind CSS', 'Bootstrap', 'Vuetify'],
   tools: ['Git', 'Figma', 'Jira', 'Linear', 'Postman'],
   cloud: ['Vercel', 'Firebase', 'Netlify'],
